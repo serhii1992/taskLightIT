@@ -1,3 +1,5 @@
+// Создание класса игрока
+
 class CreatePlayer {
   constructor(name) {
     this.name = name
