@@ -19,6 +19,8 @@ class CreatePlayer {
   }
 }
 
+// создание экземпляров класса
+
 const player = new CreatePlayer('Serhii')
 const computer = new CreatePlayer('Mackentosh')
 
